@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="finoraGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981" />
+      <stop offset="100%" stop-color="#047857" />
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="12" fill="url(#finoraGrad)"/>
+  <path d="M14 14h20v4H18v7h12v4H18v9h-4V14z" fill="#ffffff" />
+  <circle cx="34" cy="34" r="4" fill="#34d399"/>
+</svg>
